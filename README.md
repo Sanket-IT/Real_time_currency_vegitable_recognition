@@ -5,3 +5,8 @@ Abstract—we all come across instances in our existence lives where visually im
 System Architecture:
 
 ![image](https://user-images.githubusercontent.com/90542972/183628031-c0367fa3-19ce-4e90-8620-e18386497ba2.png)
+
+Steps:
+- Crate first flutter application which uses CNN model for Vegitable recognition you can also use Google teachable machine for training model.
+- Crate Second flutter application which uses CNN model for Currency recognition you can also use Google teachable machine for training model.
+- The main application uses intent calling on diffrent button to call out diffrent model to invoke.
